@@ -23,7 +23,7 @@ Thanks for dropping by! I'm HT, I'm a freelance web developer, and I make websit
 ### <sub>**COLLEGE PROJECTS:**</sub>
 * [WheelScout](//dub.sh/WheelScout) &ndash; live pedestrian & traffic reporting app (React)
 * [Colourfit](//dub.sh/colourfit) &ndash; mobile app that identifies colors from outfits with outfit suggestions (React Native)
-* [RestaurantPro](//dub.sh/restaurantPro) &ndash; B2B web app that helps restaurants distribute and track tasks efficiently
+* [RestaurantPro](//dub.sh/restaurantPro) &ndash; B2B web app that helps restaurants distribute and track tasks efficiently (React)
 * [Buddy](//dub.sh/buddy-2022) &ndash; web app that helps discover new activities and events
 
 ---
