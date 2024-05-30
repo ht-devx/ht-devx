@@ -4,6 +4,8 @@
 
 Thanks for dropping by! I'm HT, I'm a freelance web developer, and I make websites for personal blogs and projects. My mission is to create unique and accessible websites for anyone to easily install and customize, regardless of their coding experience. I've been primarily self-taught since 2015, and recently acquired a Post-Degree Diploma in <b>Web & Mobile App Development</b> in Vancouver, Canada.
 
+P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Instagram) 😊
+
 ---
 
 ### <sub>**PROJECTS:**</sub>
