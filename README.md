@@ -22,6 +22,7 @@ P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Ins
 * [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i) &ndash; sticky sidebar plugin for short & long sidebars
 * [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts) &ndash; quickly add Google Fonts to your project
 * [slideToggle&hairsp;(&hairsp;)](https://github.com/ht-devx/slideToggle) &ndash; jQuery's `slideToggle()` reimagined in pure JS as a plugin
+* [textBobber&hairsp;(&hairsp;)](https://github.com/ht-devx/textBobber) &ndash; visual novel typewriter effect plugin
 
 ### <sub>**COLLEGE PROJECTS:**</sub>
 * [WheelScout](//dub.sh/WheelScout) &ndash; live pedestrian & traffic reporting app (React)
