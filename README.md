@@ -25,7 +25,7 @@ P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Ins
 * [textBobber&hairsp;(&hairsp;)](https://github.com/ht-devx/textBobber) &ndash; visual novel typewriter effect plugin
 
 ### <sub>**COLLEGE PROJECTS:**</sub>
-* [WheelScout](//dub.sh/WheelScout) &ndash; live pedestrian & traffic reporting app (React)
+* [WheelScout](//dub.sh/WheelScout) &ndash; live pedestrian & traffic reporting app for mobility-aid users (React)
 * [Colourfit](//dub.sh/colourfit) &ndash; mobile app that identifies colors from outfits with outfit suggestions (React Native)
 * [RestaurantPro](//dub.sh/restaurantPro) &ndash; B2B web app that helps restaurants distribute and track tasks efficiently (React)
 * [Buddy](//dub.sh/buddy-2022) &ndash; web app that helps discover new activities and events
