@@ -23,6 +23,7 @@ P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Ins
 * [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts) &ndash; quickly add Google Fonts to your project
 * [slideToggle&hairsp;(&hairsp;)](https://github.com/ht-devx/slideToggle) &ndash; jQuery's `slideToggle()` reimagined in pure JS as a plugin
 * [textBobber&hairsp;(&hairsp;)](https://github.com/ht-devx/textBobber) &ndash; visual novel typewriter effect plugin
+* [VIDYO&hairsp;(&hairsp;)](https://github.com/ht-devx/VIDYO) &ndash; video plugin that replaces the browser's default controls with custom controls
 
 ### <sub>**COLLEGE PROJECTS:**</sub>
 * [WheelScout](//dub.sh/WheelScout) &ndash; live pedestrian & traffic reporting app for mobility-aid users (React)
