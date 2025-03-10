@@ -1,6 +1,6 @@
 ![Banner image for HT's GitHub. There are two rows of text on the left, the first row says '@ht-devx' in all-uppercase green text, and the second row says 'Front-End Developer, designer, artist' in all-uppercase white text. On the rightside are also two rows of text, the first is HT's portfolio link: 'ht-devx.github.io', whilst the second row is HT's contact email: 'hello.ht.dev@gmail.com'. Both rows are in normal case text and are white in color. The banner's background is black with light green accents for decoration.](https://github.com/ht-devx/ht-devx/assets/162752471/388f4a7a-f14c-4d59-9b69-bf457e02d3f6)
 
-**hello! 😊**
+**Hello! 😊**
 
 Thanks for dropping by! I'm HT, I'm a freelance web developer, and I make websites for personal blogs and projects. My mission is to create unique and accessible websites for anyone to easily install and customize, regardless of their coding experience. I've been primarily self-taught since 2015, and recently acquired a Post-Degree Diploma in <b>Web & Mobile App Development</b> in Vancouver, Canada.
 
@@ -20,7 +20,8 @@ P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Ins
 * [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s) &ndash; circular progress bars with CSS & JS
 * [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s) &ndash; filtering plugin with fade transition(s)
 * [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i) &ndash; sticky sidebar plugin for short & long sidebars
-* [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts) &ndash; quickly add Google Fonts to your project
+* [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts) &ndash; a plugin to add Google Fonts to your project by specifying font names via JS
+* [add-google-fonts.gitlab.io/tool&hairsp;](https://add-google-fonts.gitlab.io/tool) &ndash; add Google Fonts stylesheets to your project by specifying font names
 * [slideToggle&hairsp;(&hairsp;)](https://github.com/ht-devx/slideToggle) &ndash; jQuery's `slideToggle()` reimagined in pure JS as a plugin
 * [textBobber&hairsp;(&hairsp;)](https://github.com/ht-devx/textBobber) &ndash; visual novel typewriter effect plugin
 * [VIDYO&hairsp;(&hairsp;)](https://github.com/ht-devx/VIDYO) &ndash; video plugin that replaces the browser's default controls with custom controls
