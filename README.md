@@ -2,7 +2,7 @@
 
 **Hello! 😊**
 
-Thanks for dropping by! I'm HT, I'm a freelance web developer, and I make websites for personal blogs and projects. My mission is to create unique and accessible websites for anyone to easily install and customize, regardless of their coding experience. I've been primarily self-taught since 2015, and recently acquired a Post-Degree Diploma in <b>Web & Mobile App Development</b> in Vancouver, Canada.
+Thanks for dropping by! I'm HT, I'm a freelance web developer, and I make websites for personal blogs and projects. My mission is to create unique and accessible websites for anyone to easily install and customize, regardless of their coding experience. I've been primarily self-taught since 2015 until acquiring a Post-Degree Diploma in <b>Web & Mobile App Development</b> 2023.
 
 P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Instagram) 😊
 
@@ -12,7 +12,7 @@ P.S. you can find my art over at [anyilia_](https://instagram.com/anyilia_) (Ins
 * [glenthemes](//glenthemes.tumblr.com) &ndash; free & premium themes, pages, widgets & more
 * [griddery](https://github.com/griddery/griddery.github.io#readme) &ndash; alternative masonry/grid plugin
 * [SVG HTML minifier](https://svg-html-minifier.gitlab.io/view) &ndash; minify SVG code via JS
-* [SVG to CSS `clip-path`](https://svg-css-clip-path.gitlab.io/view) &ndash; convert SVG code to `clip-path`
+* [SVG to CSS `mask`](https://svg-css-mask.gitlab.io/view) &ndash; convert SVG code to `mask`
 * [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme) &ndash; auto-add a warning display for filtered tags
 * [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i) &ndash; jQuery's `wrapInner()` in JS
